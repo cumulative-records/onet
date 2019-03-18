@@ -1,0 +1,7 @@
+Most ONET submissions are not the result of scientific inquiry. 
+However, CRDS could seek to collect data from persons in the occupation to increase the validity of its ONET submission.
+
+Existing methods in personnel psychology:
+a. Ask for basic agreement of importance of item, then comparing how items perform.
+b. Cut scores method of asking raters what percentage of minimally competent persons should be able to perform a task or competency, then averaging these together across items. We would discard or modify poorly performing items. An overall cut score would not necessarily be used.
+c. Ask respondents to state the degree to which a critical incident fits with a certain performance area. This is more time consuming because we have to give counter examples in hopes that respondents will say these are unrelated (or else multiple loadings).
