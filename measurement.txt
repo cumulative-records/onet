@@ -1,5 +1,8 @@
-Most ONET submissions are not the result of scientific inquiry. 
-However, CRDS could seek to collect data from persons in the occupation to increase the validity of its ONET submission.
+Our understanding is that ONET submissions are generally applied. Our interpretation of the site and its submission process leads us to infer that submissions are not the result of scientific inquiry in most cases.
+
+We would like to provide an ONET submission that makes some use of scientific inquiry. For example, CRDS could seek to collect data from persons in the occupation to increase the validity of its ONET submission.
+
+CRDS could also utilize data collection from public sources, such as the BACB website or job postings.
 
 Existing methods in personnel psychology:
 a. Ask for basic agreement of importance of item, then comparing how items perform.
